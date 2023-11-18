@@ -1,0 +1,27 @@
+/* pre {
+    color: red;
+    background-color: rgb(86, 139, 61);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.important-text
+{
+    color: red;
+}
+
+#red{
+    color: blue;
+} */
+
+
+section p {
+    border: solid 1px black;
+}
+
+section > p {
+    background-color: aqua;
+}

@@ -1,0 +1,23 @@
+#container
+{
+    border: 10px solid gray;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    width: 300px;
+    flex-wrap: wrap-reverse;
+}
+.item
+{
+    width: 50px;
+    height: 50px;
+    background-color: blueviolet;
+}
+
+#lastItem {
+    background-color: aquamarine;
+    height: 150px;
+}

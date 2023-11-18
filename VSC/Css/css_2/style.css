@@ -1,0 +1,53 @@
+
+#width
+{ width: 500px;
+height: 500px;
+background-color: aqua;
+color: red;
+/* padding: 30px;
+padding-left:  50px;
+padding-right: 40px; */
+padding: 1px 20px 10px;
+overflow: scroll;
+
+margin-top: 100px;
+margin-bottom: 100px;
+
+border-radius:  100px;
+box-sizing: border-box;
+border-top-left-radius: 30px;
+border-bottom-left-radius: 40px;
+}
+
+#image {
+    width: 500px;
+    height : 500px;
+    background-color: red;
+    background-image: url(https://ssl.pstatic.net/melona/libs/1474/1474816/761bc5d6543dcc790bbb_20231117131722000.jpg);
+    /* background-repeat: no-repeat;
+    background-repeat: repeat-x; */
+    background-size: cover;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+#font {
+    font-size: 32px;
+    font-weight: lighter;
+    /* color: blue;
+    color: #fff;
+    color: 000000;
+
+
+    color: #ffffff;
+    color: rgb(1, 1, 1);
+    color: rgba(1, 1, 1, 1); */
+
+
+}
+
+#align
+{
+    width: 300px ;
+    height: 300px;
+    background-color: aqua;
+    text-align: center;
+}
